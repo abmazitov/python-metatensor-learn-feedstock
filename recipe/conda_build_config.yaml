@@ -1,0 +1,10 @@
+c_stdlib_version:          # [osx]
+  - "13.3"                # [osx]
+MACOSX_SDK_VERSION:        # [osx]
+  - "13.3"                # [osx]
+MACOSX_DEPLOYMENT_TARGET:        # [osx]
+  - "13.3"                # [osx]
+
+channel_targets:
+  - metatensor main
+
