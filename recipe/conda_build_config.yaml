@@ -5,6 +5,8 @@ MACOSX_SDK_VERSION:        # [osx]
 MACOSX_DEPLOYMENT_TARGET:        # [osx]
   - "13.3"                # [osx]
 
+channel_sources:
+  - metatensor
 channel_targets:
   - metatensor main
 
