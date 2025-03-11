@@ -7,6 +7,7 @@ MACOSX_DEPLOYMENT_TARGET:        # [osx]
 
 channel_sources:
   - metatensor
+  - conda-forge
 channel_targets:
   - metatensor main
 
